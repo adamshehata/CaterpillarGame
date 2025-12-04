@@ -91,7 +91,7 @@ Postcondition: The caterpillar moves continuously in the selected direction.
 
 ## UML-Diagram
 
-picture of uml diagram to be pasted here.
+<img width="777" height="1296" alt="caterpillarUML" src="https://github.com/user-attachments/assets/92bdcf88-5363-425e-ad60-8f842c9c8913" />
 
 ## Glossary
 
