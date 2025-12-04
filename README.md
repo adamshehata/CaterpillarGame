@@ -7,6 +7,7 @@ The Very Hungry Caterpillar - README
 
 1. [Overview](#Overview)
 2. [Use Cases](#Use-Cases)
+3. [UML Diagram](#UML-Diagram)
 4. [Glossary](#Glossary)
 5. [Video](#Video)
 
@@ -85,6 +86,12 @@ Postcondition: The caterpillar moves continuously in the selected direction.
 2. System displays “Game Over” and the final score. 
 
 **Postcondition: The player can no longer control the caterpillar.**
+
+![image](https://hackmd.io/_uploads/HycTpDAWWe.png)
+
+## UML-Diagram
+
+picture of uml diagram to be pasted here.
 
 ## Glossary
 
