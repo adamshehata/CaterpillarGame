@@ -96,29 +96,52 @@ picture of uml diagram to be pasted here.
 ## Glossary
 
 **Caterpillar:** The player controlled character that grows in length by eating apples. 
+
 **Apple:** An item that appears randomly on the board. Eating it increases the caterpillar’s length and score. 
+
 **Game Board:** The rectangular playing area where the caterpillar moves. 
+
 **Collision:** When the caterpillar hits a wall or its own body, causing the game to end. 
+
 **Score:** The number of apples the player has eaten. 
+
 **Game Loop:** The continuous cycle of updating the game state and rendering graphics. 
+
 **SCREEN\_WIDTH / SCREEN\_HEIGHT:** Dimensions of the game window. 
+
 **UNIT\_SIZE:** The size of one segment of the caterpillar. 
+
 **DELAY:** The speed of the caterpillar’s movement. 
+
 **bodyParts:** Initial size of the caterpillar. 
+
 **applesEaten:** Counter for apples collected. 
+
 **appleX / appleY:** Coordinates of the apple on the board. 
+
 **direction:** The current movement direction of the caterpillar. 
+
 **running:** Boolean value indicating if the game is active. 
+
 **GamePanel():** Sets up the background of the game. 
+
 **startGame():** Initializes the game and begins play. 
+
 **draw(Graphics):** Renders the caterpillar, apples, and text on the screen. 
+
 **newApple():** Generates a new apple at a random location. 
+
 **move():** Updates the caterpillar’s position. 
+
 **checkApple():** Detects apple collisions, grows the caterpillar, updates score, and spawns a new 
 apple. 
+
 **checkCollisions():** Ends the game if the caterpillar collides with itself or a wall. 
+
 **gameOver():** Displays “Game Over” and the final score.
+
 **resetButton:** Start the game over again.
+
 **MyKeyAdapter:** Connects the keyboard arrow keys to caterpillar movement.
 
 ## Video 
