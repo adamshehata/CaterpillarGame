@@ -87,7 +87,7 @@ Postcondition: The caterpillar moves continuously in the selected direction.
 
 **Postcondition: The player can no longer control the caterpillar.**
 
-![image](https://hackmd.io/_uploads/HycTpDAWWe.png)
+<img width="470" height="361" alt="caterpillarusecase" src="https://github.com/user-attachments/assets/4835dc5e-9bbd-4917-9086-11a208d79a0e" />
 
 ## UML-Diagram
 
